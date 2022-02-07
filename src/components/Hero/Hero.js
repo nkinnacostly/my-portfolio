@@ -13,7 +13,7 @@ const Hero = (props) => (
           <SectionText>
           Hi. I’m Costly Ayang, a passionate and innovative front-end developer. I build web applications and products using existing and new technologies to deliver seamless and intuitive user experience.
           </SectionText>
-          <Button onClick={() => window.location = "https://google.com"}>Learn More</Button>
+          <Button onClick={() => window.location = "https://docs.google.com/document/d/1ujfVa2Xaz28Z5X2MKEt978s6ds771Kj_/edit?usp=sharing&ouid=116423821784387990188&rtpof=true&sd=true"}>Learn More</Button>
         </LeftSection>
   </Section>
 );
