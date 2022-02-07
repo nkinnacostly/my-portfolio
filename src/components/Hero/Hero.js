@@ -11,7 +11,7 @@ const Hero = (props) => (
             Welcome To <br/> My Personal Portfolio
           </SectionTitle>
           <SectionText>
-            Front End Developer
+          Hi. I’m Costly Ayang, a passionate and innovative front-end developer. I build web applications and products using existing and new technologies to deliver seamless and intuitive user experience.
           </SectionText>
           <Button onClick={() => window.location = "https://google.com"}>Learn More</Button>
         </LeftSection>
