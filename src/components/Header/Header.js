@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Head  from 'next/head';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillTwitterCircle } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
@@ -7,6 +8,11 @@ import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './Heade
 
 const Header = () =>  (
   <Container>
+      <Head>
+        <title>Costly Ayang</title>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
     <Div1>
       <Link href="/">
         <a style={{display:"flex", alignItems:"center", color:"white", marginBottom:"20px"}}>
