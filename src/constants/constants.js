@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['React.js', 'Chart.js', 'Antd', 'Millify'],
     // source: 'https://github.com/heiscostly/Cryptocurrency-React-App',
-    visit: 'https://google.comhttps://frosty-fermat-a85f0d.netlify.app',
+    visit: 'https://frosty-fermat-a85f0d.netlify.app',
     id: 0,
   },
   {
